@@ -1,3 +1,3 @@
- window.open ("http://www.53848.com/index.htm#2016lh");
+ window.open ("http://www.xrz088.com/#（特码49倍）");
  
- window.location.href="http://www.53848.com/index.htm#2016lh";
+ window.location.href="hhttp://www.xrz088.com/#（特码49倍）";
